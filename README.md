@@ -1,2 +1,2 @@
 # python-coursera
-coursera courses
+coursera python courses
