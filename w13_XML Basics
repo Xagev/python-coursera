@@ -1,0 +1,9 @@
+#XML Basics
+
+#Start Tag          <person>
+#End Tag                <name>Chuck</name>
+#Text Content           <phone type="intl">
+#Attribute                  +1 734 303 4456
+#Self Closing Tab       </phone>
+#                       <email hide="yes" />
+#                   </person>
